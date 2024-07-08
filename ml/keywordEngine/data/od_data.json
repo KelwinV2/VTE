@@ -1,0 +1,1602 @@
+{
+    "Sports": {
+        "Soccer": [
+            {"keyword": "soccer_ball"}
+        ],
+        "Volleyball": [
+            {"keyword": "volleyball"},
+            {"keyword": "knee_pad"}
+        ],
+        "Basketball": [
+            {"keyword": "basketball"},
+            {"keyword": "ballplayer"}
+        ],
+        "Ice Hockey": [
+            {"keyword": "puck"}
+        ],
+        "American Football": [
+            {"keyword": "football_helmet"},
+            {"keyword": "scoreboard"}
+        ],
+        "Baseball": [
+            {"keyword": "baseball"}
+            
+        ],
+        "Gymnastics": [
+            {"keyword": "balance_beam"},
+            {"keyword": "horizontal_bar"},
+            {"keyword": "parallel_bars"}
+        ],
+        "Winter": [
+            {"keyword": "bobsled"},
+            {"keyword": "gondola"}
+        ],
+        "Boxing": [
+            {"keyword": "punching_bag"}
+        ],
+        "Old Man Sports": [
+            {"keyword": "croquet_ball"}
+        ],
+        "Pool": [
+            {"keyword": "pool_table"}
+        ],
+        "Golf": [
+            {"keyword": "golf_ball"},
+            {"keyword": "golfcart"}
+        ],
+        "Skydiving": [
+            {"keyword": "parachute"}
+        ],
+        "Ping Pong": [
+            {"keyword": "ping-pong_ball"},
+            {"keyword": "scoreboard"}
+        ],
+        "Racket Sports": [
+            {"keyword": "racket"},
+            {"keyword": "tennis_ball"}
+        ],
+        "Rugby": [
+            {"keyword": "rugby_ball"}
+        ],
+        "Ski": [
+            {"keyword": "ski"},
+            {"keyword": "ski_mask"}
+        ],
+        "General": [
+            {"keyword": "jersey"},
+            {"keyword": "scoreboard"},
+            {"keyword": "whistle"}
+        ]
+        
+        
+    },
+    "News": {
+        "World News": [
+            {"keyword": "assault_rifle"},
+            {"keyword": "container_ship"},
+            {"keyword": "aircraft_carrier"},
+            {"keyword": "bearskin"},
+            {"keyword": "drilling_platform"},
+            {"keyword": "flagpole"},
+            {"keyword": "missile"}
+        ],
+
+        "Financial News": [
+            {"keyword": "cash_machine"}
+        ]
+    },
+    "Fashion": {
+        "Dresses": [
+            {"keyword": "abaya"},
+            {"keyword": "kimono"},
+            {"keyword": "vestment"}         
+        ],
+        "Women's Clothing": [
+            {"keyword": "brassiere"},
+            {"keyword": "cardigan"},
+            {"keyword": "hoopskirt"},
+            {"keyword": "miniskirt"},
+            {"keyword": "overskirt"},
+            {"keyword": "sarong"}
+        ],
+        "Men's Clothing": [
+          
+        ],
+        "Clothing": [
+            {"keyword": "cloak"},
+            {"keyword": "jean"},
+            {"keyword": "pajama"},
+            {"keyword": "suit"},
+            {"keyword": "sweatshirt"},
+            {"keyword": "trench_coat"}
+        ],
+        "Women's Accessories": [
+            {"keyword": "bow"},
+            {"keyword": "bonnet"},
+            {"keyword": "feather_boa"},
+            {"keyword": "hair_slide"},
+            {"keyword": "purse"},
+            {"keyword": "stole"}
+        ],
+        "Men's Accessories": [        
+            {"keyword": "bow_tie"},
+            {"keyword": "chain"},
+            {"keyword": "wallet"},
+            {"keyword": "Windsor_tie"}
+        ],
+        "Women's Footwear": [
+
+        ],
+        "Footwear": [
+            {"keyword": "clog"},
+            {"keyword": "cowboy_boot"},
+            {"keyword": "loafer"},
+            {"keyword": "sandal"},
+            {"keyword": "shoe_shop"},
+            {"keyword": "sock"}
+        ],
+        "Men's Footwear": [
+
+        ],
+        "Accessories": [
+            {"keyword": "bolo_tie"},
+            {"keyword": "buckle"},
+            {"keyword": "digital_watch"},
+            {"keyword": "necklace"},
+            {"keyword": "safety_pin"},
+            {"keyword": "sunglass"},
+            {"keyword": "sunglasses"}
+        ],
+        "Headwear": [
+            {"keyword": "cowboy_hat"},
+            {"keyword": "bearskin"},
+            {"keyword": "ski_mask"},
+            {"keyword": "sombrero"},
+            {"keyword": "wig"}
+        ],
+        "Swimwear": [
+            {"keyword": "bikini"},
+            {"keyword": "maillot"},
+            {"keyword": "bathing_cap"},
+            {"keyword": "swimming_trunks"}
+        ],
+        "Winter Clothing": [
+            {"keyword": "fur_coat"},
+            {"keyword": "mitten"}
+        ],
+        "Rainwear": [
+            {"keyword": "poncho"},
+            {"keyword": "umbrella"}
+        ],
+        "Tools": [
+            {"keyword": "sewing_machine"},
+            {"keyword": "safety_pin"},
+            {"keyword": "spindle"},
+            {"keyword": "thimble"},
+            {"keyword": "velvet"},
+            {"keyword": "wool"}
+        ]
+    },
+    "Pets & Animals": {
+        "Aquatic Animals" : [
+            {"keyword": "tench"},
+            {"keyword": "stingray"},
+            {"keyword": "eletric_ray"},
+            {"keyword": "hammerhead"},
+            {"keyword": "tiger_shark"},
+            {"keyword": "great_white_shark"},
+            {"keyword": "jellyfish"},
+            {"keyword": "sea_anemone"},
+            {"keyword": "brain_coral"},
+            {"keyword": "grey_whale"},
+            {"keyword": "killer_whale"},
+            {"keyword": "dugong"},
+            {"keyword": "sea_lion"},
+            {"keyword": "starfish"},
+            {"keyword": "sea_urchin"},
+            {"keyword": "sea_cucumber"},
+            {"keyword": "barracouta"},
+            {"keyword": "eel"},
+            {"keyword": "coho"},
+            {"keyword": "rock_beauty"},
+            {"keyword": "anemone_fish"},
+            {"keyword": "sturgeon"},
+            {"keyword": "gar"},
+            {"keyword": "lionfish"},
+            {"keyword": "puffer"}            
+                        
+        ],
+
+        "Invertebrates": [
+            {"keyword": "flatworm"},
+            {"keyword": "nematode"},
+            {"keyword": "conch"},
+            {"keyword": "snail"},
+            {"keyword": "slug"},
+            {"keyword": "sea_slug"},
+            {"keyword": "chiton"},
+            {"keyword": "chambered_nautilus"},
+            {"keyword": "Dungeness_crab"},
+            {"keyword": "rock_crab"},
+            {"keyword": "fiddler_crab"},
+            {"keyword": "king_crab"},
+            {"keyword": "American_lobster"},
+            {"keyword": "spiny_lobster"},
+            {"keyword": "crayfish"},
+            {"keyword": "hermit_crab"},
+            {"keyword": "isopod"}            
+        ],
+
+        "Birds": [
+            {"keyword": "birdhouse"},
+            {"keyword": "cock"},
+            {"keyword": "hen"},
+            {"keyword": "ostrich"},
+            {"keyword": "brambling"},
+            {"keyword": "house_finch"},
+            {"keyword": "junco"},
+            {"keyword": "indigo-bunting"},
+            {"keyword": "robin"},
+            {"keyword": "bulbul"},
+            {"keyword": "jay"},
+            {"keyword": "magpie"},
+            {"keyword": "chickadee"},
+            {"keyword": "water_ouzel"},
+            {"keyword": "kite"},
+            {"keyword": "bald_eagle"},
+            {"keyword": "vulture"},
+            {"keyword": "great_grey_owl"},
+            {"keyword": "goldfinch"},
+            {"keyword": "black_grouse"},
+            {"keyword": "ptarmigan"},
+            {"keyword": "ruffed_grouse"},
+            {"keyword": "prairie_chicken"},
+            {"keyword": "peacock"},
+            {"keyword": "quail"},
+            {"keyword": "partridge"},
+            {"keyword": "African_grey"},
+            {"keyword": "macaw"},
+            {"keyword": "sulphur-crested_cockatoo"},
+            {"keyword": "lorikeet"},
+            {"keyword": "coucal"},
+            {"keyword": "bee_eater"},
+            {"keyword": "hornbill"},
+            {"keyword": "hummingbird"},
+            {"keyword": "jacamar"},
+            {"keyword": "wing"},
+            {"keyword": "toucan"},
+            {"keyword": "drake"},
+            {"keyword": "red-breasted_merganser"},
+            {"keyword": "goose"},
+            {"keyword": "black_swan"},
+            {"keyword": "white_stork"},
+            {"keyword": "black_stork"},
+            {"keyword": "spoonbill"},
+            {"keyword": "flamingo"},
+            {"keyword": "little_blue_heron"},
+            {"keyword": "American_egret"},
+            {"keyword": "bittern"},
+            {"keyword": "crane"},
+            {"keyword": "limpkin"},
+            {"keyword": "European_gallinule"},
+            {"keyword": "American_coot"},
+            {"keyword": "bustard"},
+            {"keyword": "ruddy_turnstone"},
+            {"keyword": "red-backed_sandpiper"},
+            {"keyword": "redshank"},
+            {"keyword": "dowitcher"},
+            {"keyword": "oystercatcher"},
+            {"keyword": "pelican"},
+            {"keyword": "king_penguin"},
+            {"keyword": "albatross"}            
+        ],
+
+        "Amphibians": [
+            {"keyword": "common_newt"},
+            {"keyword": "eft"},
+            {"keyword": "axolotl"},
+            {"keyword": "bullfrog"},
+            {"keyword": "tree_frog"},
+            {"keyword": "tailed_frog"},
+            {"keyword": "European_fire_salamander"}
+        ],
+
+        "Reptiles": [
+            {"keyword": "leatherback_turtle"},
+            {"keyword": "mud_turtle"},
+            {"keyword": "terrapin"},
+            {"keyword": "box_turtle"},
+            {"keyword": "banded_gecko"},
+            {"keyword": "common_iguana"},
+            {"keyword": "American_chameleon"},
+            {"keyword": "whiptail"},
+            {"keyword": "agama"},
+            {"keyword": "frilled_lizard"},
+            {"keyword": "alligator_lizard"},
+            {"keyword": "Gila_monster"},
+            {"keyword": "green_lizard"},
+            {"keyword": "African_chameleon"},
+            {"keyword": "Komodo_dragon"},
+            {"keyword": "African_crocodile"},
+            {"keyword": "American_alligator"},
+            {"keyword": "thunder_snake"},
+            {"keyword": "ringneck_snake"},
+            {"keyword": "hognose_snake"},
+            {"keyword": "green_snake"},
+            {"keyword": "king_snake"},
+            {"keyword": "garter_snake"},
+            {"keyword": "water_snake"},
+            {"keyword": "vine_snake"},
+            {"keyword": "night_snake"},
+            {"keyword": "boa_constrictor"},
+            {"keyword": "rock_python"},
+            {"keyword": "Indian_cobra"},
+            {"keyword": "green_mamba"},
+            {"keyword": "sea_snake"},
+            {"keyword": "horned_viper"},
+            {"keyword": "diamondback"},
+            {"keyword": "sidewinder"}
+        ],
+
+        "Dinosaurs": [
+            {"keyword": "triceratops"}
+        ],
+
+        "Arthropods": [
+            {"keyword": "trilobite"},
+            {"keyword": "harvestman"},
+            {"keyword": "scorpion"},
+            {"keyword": "black_and_gold_garden_spider"},
+            {"keyword": "barn_spider"},
+            {"keyword": "garden_spider"},
+            {"keyword": "black_widow"},
+            {"keyword": "tarantula"},
+            {"keyword": "wolf_spider"},
+            {"keyword": "tick"},
+            {"keyword": "centipede"},
+            {"keyword": "spider_web"}
+        ],
+
+        "Mammals": [
+            {"keyword": "echidna"},
+            {"keyword": "platypus"},
+            {"keyword": "wallaby"},
+            {"keyword": "koala"},
+            {"keyword": "wombat"},
+            {"keyword": "hamster"},
+            {"keyword": "porcupine"},
+            {"keyword": "fox_squirrel"},
+            {"keyword": "marmot"},
+            {"keyword": "beaver"},
+            {"keyword": "guinea_pig"},
+            {"keyword": "hog"},
+            {"keyword": "wild_boar"},
+            {"keyword": "warthog"},
+            {"keyword": "hippopotamus"},
+            {"keyword": "ox"},
+            {"keyword": "water_buffalo"},
+            {"keyword": "bison"},
+            {"keyword": "ram"},
+            {"keyword": "bighorn"},
+            {"keyword": "ibex"},
+            {"keyword": "hartebeest"},
+            {"keyword": "impala"},
+            {"keyword": "gazelle"},
+            {"keyword": "Arabian_camel"},
+            {"keyword": "llama"},
+            {"keyword": "weasel"},
+            {"keyword": "mink"},
+            {"keyword": "polecat"},
+            {"keyword": "black-footed_ferret"},
+            {"keyword": "otter"},
+            {"keyword": "skunk"},
+            {"keyword": "badger"},
+            {"keyword": "armadillo"},
+            {"keyword": "three-toed_sloth"}
+                        
+        ],
+
+        "Dogs": [
+            {"keyword": "Chihuahua"},
+            {"keyword": "Japanese_spaniel"},
+            {"keyword": "Maltese_dog"},
+            {"keyword": "Pekinese"},
+            {"keyword": "Shih-Tzu"},
+            {"keyword": "Blenheim_spaniel"},
+            {"keyword": "papillon"},
+            {"keyword": "toy_terrier"},
+            {"keyword": "Rhodesian_ridgeback"},
+            {"keyword": "Afghan_hound"},
+            {"keyword": "basset"},
+            {"keyword": "beagle"},
+            {"keyword": "bloodhound"},
+            {"keyword": "bluetick"},
+            {"keyword": "black-and-tan_coonhound"},
+            {"keyword": "Walker_hound"},
+            {"keyword": "English_foxhound"},
+            {"keyword": "redbone"},
+            {"keyword": "borzoi"},
+            {"keyword": "Irish_wolfhound"},
+            {"keyword": "Italian_greyhound"},
+            {"keyword": "whippet"},
+            {"keyword": "Ibizan_hound"},
+            {"keyword": "Norwegian_elkhound"},
+            {"keyword": "otterhound"},
+            {"keyword": "Saluki"},
+            {"keyword": "Scottish_deerhound"},
+            {"keyword": "Weimaraner"},
+            {"keyword": "Staffordshire_bullterrier"},
+            {"keyword": "American_Staffordshire_terrier"},
+            {"keyword": "Bedlington_terrier"},
+            {"keyword": "Border_terrier"},
+            {"keyword": "Kerry_blue_terrier"},
+            {"keyword": "Irish_terrier"},
+            {"keyword": "Norfolk_terrier"},
+            {"keyword": "Norwich_terrier"},
+            {"keyword": "Yorkshire_terrier"},
+            {"keyword": "wire-haired_fox_terrier"},
+            {"keyword": "Lakeland_terrier"},
+            {"keyword": "Sealyham_terrier"},
+            {"keyword": "Airedale"},
+            {"keyword": "cairn"},
+            {"keyword": "Australian_terrier"},
+            {"keyword": "Dandie_Dinmont"},
+            {"keyword": "Boston_bull"},
+            {"keyword": "miniature_schnauzer"},
+            {"keyword": "giant_schnauzer"},
+            {"keyword": "standard_schnauzer"},
+            {"keyword": "Scotch_terrier"},
+            {"keyword": "Tibetan_terrier"},
+            {"keyword": "silky_terrier"},
+            {"keyword": "soft-coated_wheaten_terrier"},
+            {"keyword": "West_Highland_white_terrier"},
+            {"keyword": "Lhasa"},
+            {"keyword": "flat-coated_retriever"},
+            {"keyword": "curly-coated_retriever"},
+            {"keyword": "golden_retriever"},
+            {"keyword": "Labrador_retriever"},
+            {"keyword": "Chesapeake_Bay_retriever"},
+            {"keyword": "German_short-haired_pointer"},
+            {"keyword": "vizsla"},
+            {"keyword": "English_setter"},
+            {"keyword": "Irish_setter"},
+            {"keyword": "Gordon_setter"},
+            {"keyword": "Brittany_spaniel"},
+            {"keyword": "clumber"},
+            {"keyword": "English_springer"},
+            {"keyword": "Welsh_springer_spaniel"},
+            {"keyword": "cocker_spaniel"},
+            {"keyword": "Sussex_spaniel"},
+            {"keyword": "Irish_water_spaniel"},
+            {"keyword": "kuvasz"},
+            {"keyword": "schipperke"},
+            {"keyword": "groenendael"},
+            {"keyword": "malinois"},
+            {"keyword": "briard"},
+            {"keyword": "kelpie"},
+            {"keyword": "komondor"},
+            {"keyword": "Old_English_sheepdog"},
+            {"keyword": "Shetland_sheepdog"},
+            {"keyword": "collie"},
+            {"keyword": "Border_collie"},
+            {"keyword": "Bouvier_des_Flandres"},
+            {"keyword": "Rottweiler"},
+            {"keyword": "German_shepherd"},
+            {"keyword": "Doberman"},
+            {"keyword": "miniature_pinscher"},
+            {"keyword": "Greater_Swiss_Mountain_dog"},
+            {"keyword": "Bernese_mountain_dog"},
+            {"keyword": "Appenzeller"},
+            {"keyword": "EntleBucher"},
+            {"keyword": "boxer"},
+            {"keyword": "bull_mastiff"},
+            {"keyword": "Tibetan_mastiff"},
+            {"keyword": "French_bulldog"},
+            {"keyword": "Great_Dane"},
+            {"keyword": "Saint_Bernard"},
+            {"keyword": "Eskimo_dog"},
+            {"keyword": "malamute"},
+            {"keyword": "Siberian_husky"},
+            {"keyword": "dalmatian"},
+            {"keyword": "affenpinscher"},
+            {"keyword": "basenji"},
+            {"keyword": "pug"},
+            {"keyword": "Leonberg"},
+            {"keyword": "Newfoundland"},
+            {"keyword": "Great_Pyrenees"},
+            {"keyword": "Samoyed"},
+            {"keyword": "Pomeranian"},
+            {"keyword": "chow"},
+            {"keyword": "keeshond"},
+            {"keyword": "Brabancon_griffon"},
+            {"keyword": "Pembroke"},
+            {"keyword": "Cardigan"},
+            {"keyword": "toy_poodle"},
+            {"keyword": "miniature_poodle"},
+            {"keyword": "standard_poodle"},
+            {"keyword": "Mexican_hairless"}                                    
+        ],
+
+        "Wolves": [
+            {"keyword": "timber_wolf"},
+            {"keyword": "white_wolf"},
+            {"keyword": "red_wolf"}            
+        ],
+
+        "Canidae": [
+            {"keyword": "coyote"},
+            {"keyword": "dingo"},
+            {"keyword": "dhole"},
+            {"keyword": "African_hunting_dog"},
+            {"keyword": "hyena"}            
+        ],
+
+        "Foxes": [
+            {"keyword": "red_fox"},
+            {"keyword": "kit_fox"},
+            {"keyword": "Arctic_fox"},
+            {"keyword": "grey_fox"}                        
+        ],
+
+        "Cats": [
+            {"keyword": "tabby"},
+            {"keyword": "tiger_cat"},
+            {"keyword": "Persian_cat"},
+            {"keyword": "Siamese_cat"},
+            {"keyword": "Egyptian_cat"},
+            {"keyword": "cougar"},
+            {"keyword": "lynx"},
+            {"keyword": "leopard"},
+            {"keyword": "snow_leopard"},
+            {"keyword": "jaguar"},
+            {"keyword": "lion"},
+            {"keyword": "tiger"},
+            {"keyword": "cheetah"}                        
+        ],
+
+        "Bears": [
+            {"keyword": "brown_bear"},
+            {"keyword": "American_black_bear"},
+            {"keyword": "ice_bear"},
+            {"keyword": "sloth_bear"}            
+        ],
+
+        "Mongooses": [
+            {"keyword": "mongoose"},
+            {"keyword": "meerkat"}            
+        ],
+
+        "Bugs": [
+            {"keyword": "tiger_beetle"},
+            {"keyword": "ladybug"},
+            {"keyword": "ground_beetle"},
+            {"keyword": "long-horned_beetle"},
+            {"keyword": "leaf_beetle"},
+            {"keyword": "dung_beetle"},
+            {"keyword": "rhinoceros_beetle"},
+            {"keyword": "weevil"},
+            {"keyword": "fly"},
+            {"keyword": "bee"},
+            {"keyword": "honeycomb"},
+            {"keyword": "ant"},
+            {"keyword": "grasshopper"},
+            {"keyword": "cricket"},
+            {"keyword": "walking_stick"},
+            {"keyword": "cockroach"},
+            {"keyword": "mantis"},
+            {"keyword": "cicada"},
+            {"keyword": "leafhopper"},
+            {"keyword": "lacewing"},
+            {"keyword": "dragonfly"},
+            {"keyword": "damselfly"},
+            {"keyword": "admiral"},
+            {"keyword": "ringlet"},
+            {"keyword": "monarch"},
+            {"keyword": "cabbage_butterfly"},
+            {"keyword": "sulphur_butterfly"},
+            {"keyword": "lycaenid"} 
+        ],
+
+        "Rabbits": [
+            {"keyword": "wood_rabbit"},
+            {"keyword": "hare"},
+            {"keyword": "Angora"}                        
+        ],
+
+        "Horses": [
+            {"keyword": "sorrel"},
+            {"keyword": "zebra"}                        
+        ],
+
+        "Primates": [
+            {"keyword": "orangutan"},
+            {"keyword": "gorilla"},
+            {"keyword": "chimpanzee"},
+            {"keyword": "gibbon"},
+            {"keyword": "siamang"},
+            {"keyword": "guenon"},
+            {"keyword": "patas"},
+            {"keyword": "baboon"},
+            {"keyword": "macaque"},
+            {"keyword": "langur"},
+            {"keyword": "colobus"},
+            {"keyword": "proboscis_monkey"},
+            {"keyword": "marmoset"},
+            {"keyword": "capuchin"},
+            {"keyword": "howler_monkey"},
+            {"keyword": "titi"},
+            {"keyword": "spider_monkey"},
+            {"keyword": "squirrel_monkey"},        
+            {"keyword": "Madagascar_cat"},
+            {"keyword": "indri"}            
+        ],
+
+        "Elephants": [
+            {"keyword": "Indian_elephant"},
+            {"keyword": "African_elephant"},
+            {"keyword": "tusker"}                        
+        ],
+
+        "Pandas": [
+            {"keyword": "lesser_panda"},
+            {"keyword": "giant_panda"}                        
+        ]        
+    },
+    "Technology": {
+        "Smart Devices": [
+            {"keyword": "cellular_telephone"},
+            {"keyword": "iPod"},
+            {"keyword": "laptop"},
+            {"keyword": "television"}
+        ],
+
+        "Computers": [
+            {"keyword": "computer_keyboard"},
+            {"keyword": "desktop_computer"},
+            {"keyword": "hand-held_computer"},
+            {"keyword": "hard_disc"},
+            {"keyword": "monitor"},
+            {"keyword": "mouse"},
+            {"keyword": "screen"},
+            {"keyword": "space_bar"},
+            {"keyword": "web_site"}
+        ],
+
+        "Accesories": [
+            {"keyword": "loudspeaker"},
+            {"keyword": "modem"},
+            {"keyword": "remote_control"},
+            {"keyword": "typewriter_keyboard"}
+        ],
+
+        "Cameras": [
+            {"keyword": "lens_cap"},
+            {"keyword": "Polaroid_camera"},
+            {"keyword": "reflex_camera"},
+            {"keyword": "tripod"}
+        ]
+    },
+    "Art": {
+        "Supplies": [
+            {"keyword": "paintbrush"},
+            {"keyword": "potter's_wheel"},
+            {"keyword": "quill"},
+            {"keyword": "sewing_machine"},
+            {"keyword": "spindle"},
+            {"keyword": "thimble"},
+            {"keyword": "velvet"}
+        ]
+    },
+    "Travel": {
+        "Coast": [
+            {"keyword": "beach_wagon"},
+            {"keyword": "bikini"},
+            {"keyword": "boathouse"},
+            {"keyword": "dock"},
+            {"keyword": "pier"},
+            {"keyword": "lakeside"},
+            {"keyword": "promontory"},
+            {"keyword": "sandbar"},
+            {"keyword": "seashore"},
+            {"keyword": "valley"},
+            {"keyword": "volcano"}
+        ],
+
+        "Activities": [
+            {"keyword": "snorkel"},
+            {"keyword": "scuba_diver"}
+        ],
+
+        "Mediums": [
+            {"keyword": "bullet_train"},
+            {"keyword": "cab"}
+        ],
+
+        "Landmarks": [
+            {"keyword": "beacon"},
+            {"keyword": "breakwater"},
+            {"keyword": "castle"},
+            {"keyword": "cliff_dwelling"},
+            {"keyword": "palace"},
+            {"keyword": "pedestal"},
+            {"keyword": "totem_pole"},
+            {"keyword": "alp"}
+        ],
+
+        "Tools": [
+            {"keyword": "binoculars"}
+        ],
+
+        "Camping": [
+            {"keyword": "canoe"},
+            {"keyword": "magnetic_compass"},
+            {"keyword": "mountain_tent"},
+            {"keyword": "mosquito_net"},
+            {"keyword": "yurt"}
+
+        ],
+
+        "Attractions": [
+            {"keyword": "entertainment_center"},
+            {"keyword": "fountain"},
+            {"keyword": "go-kart"},
+            {"keyword": "maze"},
+            {"keyword": "maypole"},
+            {"keyword": "planetarium"},
+            {"keyword": "stage"}
+        ],
+
+        "Family Attractions": [
+            {"keyword": "carousel"},
+            {"keyword": "go-kart"}
+        ],
+
+        "Mountainous": [
+            {"keyword": "gondola"}
+        ],
+
+        "Winter": [
+            {"keyword": "dogsled"}
+        ]
+
+        
+    },
+    "Food": {
+        "Utensils": [
+            {"keyword": "apron"},
+            {"keyword": "caldron"},
+            {"keyword": "cleaver"},
+            {"keyword": "Crock_Pot"},
+            {"keyword": "Dutch_oven"},
+            {"keyword": "frying_pan"},
+            {"keyword": "measuring_cup"},
+            {"keyword": "waffle_iron"},
+            {"keyword": "wok"},
+            {"keyword": "wooden_spoon"},
+            {"keyword": "plate"}            
+        ],
+
+        "Dessert": [
+            {"keyword": "trifle"},
+            {"keyword": "ice_cream"},
+            {"keyword": "ice_lolly"},
+            {"keyword": "chocolate_sauce"},
+            {"keyword": "eggnog"}
+        ],
+
+        "Organic": [
+            {"keyword": "honeycomb"}
+        ],
+
+        "Western": [
+            {"keyword": "restaurant"},
+            {"keyword": "cheeseburger"},
+            {"keyword": "hotdog"},
+            {"keyword": "mashed_potato"},
+            {"keyword": "menu"}            
+        ],
+
+        "Baked Goods": [
+            {"keyword": "bakery"},
+            {"keyword": "restaurant"},
+            {"keyword": "French_loaf"},
+            {"keyword": "bagel"},
+            {"keyword": "pretzel"},
+            {"keyword": "menu"},
+            {"keyword": "dough"}
+        ],
+
+        "Fruits & Vegetables": [
+            {"keyword": "grocery_store"},
+            {"keyword": "restaurant"},
+            {"keyword": "guacamole"},
+            {"keyword": "head_cabbage"},
+            {"keyword": "broccoli"},
+            {"keyword": "cauliflower"},
+            {"keyword": "zucchini"},
+            {"keyword": "spaghetti_squash"},
+            {"keyword": "acorn_squash"},
+            {"keyword": "butternut_squash"},
+            {"keyword": "cucumber"},
+            {"keyword": "artichoke"},
+            {"keyword": "bell_pepper"},
+            {"keyword": "cardoon"},
+            {"keyword": "mushroom"},
+            {"keyword": "Granny_Smith"},
+            {"keyword": "strawberry"},
+            {"keyword": "orange"},
+            {"keyword": "lemon"},
+            {"keyword": "fig"},
+            {"keyword": "pineapple"},
+            {"keyword": "banana"},
+            {"keyword": "jackfruit"},
+            {"keyword": "custard_apple"},
+            {"keyword": "pomegranate"}            
+        ],
+
+        "Italian": [
+            {"keyword": "carbonara"},
+            {"keyword": "pizza"}
+        ],
+
+        "Mexican": [
+            {"keyword": "burrito"}
+        ],
+
+        "Omni": [
+            {"keyword": "soup_bowl"},
+            {"keyword": "consomme"}
+        ],
+
+        "Meat": [
+            {"keyword": "butcher_shop"},
+            {"keyword": "cleaver"},
+            {"keyword": "grocery_store"},
+            {"keyword": "restaurant"},
+            {"keyword": "menu"},
+            {"keyword": "meat_loaf"} ,
+            {"keyword": "potpie"}          
+        ],
+        
+        "Candy": [
+            {"keyword": "confectionery"}
+        ]
+    },
+    "Drinks": {
+        "Misc": [
+            {"keyword": "bottlecap"},
+            {"keyword": "goblet"},
+            {"keyword": "cocktail_shaker"},
+            {"keyword": "pitcher"},
+            {"keyword": "pop_bottle"},
+            {"keyword": "water_bottle"},
+            {"keyword": "water_jug"},
+            {"keyword": "cup"}
+        ],
+
+        "Alocohol": [
+            {"keyword": "beer_bottle"},
+            {"keyword": "beer_glass"},
+            {"keyword": "whiskey_jug"},
+            {"keyword": "wine_bottle"},
+            {"keyword": "red_wine"}
+        ],
+
+        "Coffee & Tea": [
+            {"keyword": "coffee_mug"},
+            {"keyword": "coffeepot"},
+            {"keyword": "espresso_maker"},
+            {"keyword": "teapot"},
+            {"keyword": "espresso"}
+        ]
+    },
+    "Health & Fitness": {
+        "Medicine": [
+            {"keyword": "Band_Aid"},
+            {"keyword": "syringe"},
+            {"keyword": "crutch"},
+            {"keyword": "medicine_chest"},
+            {"keyword": "neck_brace"},
+            {"keyword": "oxygen_mask"},
+            {"keyword": "pill_bottle"},
+            {"keyword": "swab"},
+            {"keyword": "stethoscope"},
+            {"keyword": "stretcher"}            
+        ],
+
+        "Body": [
+            {"keyword": "nipple"},
+            {"keyword": "ear"}
+        ],
+
+        "Gym": [
+            {"keyword": "barbell"},
+            {"keyword": "dumbbell"}
+        ],
+
+        "Accesories": [
+            {"keyword": "barbell"},
+            {"keyword": "dumbbell"},
+            {"keyword": "bicycle-built-for-two"},
+            {"keyword": "mountain_bike"},
+            {"keyword": "running_shoe"},
+            {"keyword": "scale"}
+        ]
+    },
+    "Business & Finance": {
+        "Tools": [
+            {"keyword": "cash_machine"},
+            {"keyword": "fountain_pen"},
+            {"keyword": "photocopier"},
+            {"keyword": "piggy_bank"},
+            {"keyword": "printer"},
+            {"keyword": "vending_machine"}
+        ],
+
+        "Motivation": [
+            {"keyword": "convertible"},
+            {"keyword": "file"}
+        ],
+
+        "Jobs": [
+            {"keyword": "drilling_platform"},
+            {"keyword": "lumbermill"}
+
+        ]
+    },
+    "Politics": {
+        "Items of Debate": [
+            {"keyword": "assault_rifle"}
+        ]
+    },
+    "Nature & Environment": {
+        "Tools": [
+            {"keyword": "binoculars"}
+        ],
+        "Vehicles": [
+            {"keyword": "canoe"}
+        ],
+        "Locations": [
+            {"keyword": "greenhouse"}
+        ],
+        "Plants": [
+            {"keyword": "rapeseed"},
+            {"keyword": "daisy"},
+            {"keyword": "yellow_lady's_slipper"},
+            {"keyword": "corn"},
+            {"keyword": "acorn"},
+            {"keyword": "hip"},
+            {"keyword": "buckeye"},
+            {"keyword": "coral_fungus"},
+            {"keyword": "agaric"},
+            {"keyword": "gyromitra"},
+            {"keyword": "stinkhorn"},
+            {"keyword": "earthstar"},
+            {"keyword": "hen-of-the-woods"},
+            {"keyword": "bolete"}
+        ]
+    },
+    "Music": {
+        "Instruments": [
+            {"keyword": "accordion"},
+            {"keyword": "steel_drum"},
+            {"keyword": "acoustic_guitar"},
+            {"keyword": "sax"},
+            {"keyword": "trombone"},
+            {"keyword": "upright_piano"},
+            {"keyword": "violin"},         
+            {"keyword": "panpipe"},
+            {"keyword": "bassoon"},
+            {"keyword": "banjo"},
+            {"keyword": "cello"},
+            {"keyword": "chime"},
+            {"keyword": "drum"},
+            {"keyword": "drumstick"},  
+            {"keyword": "electric_guitar"},   
+            {"keyword": "flute"},   
+            {"keyword": "gong"},
+            {"keyword": "grand_piano"},
+            {"keyword": "harmonica"},
+            {"keyword": "harp"},
+            {"keyword": "French_horn"},    
+            {"keyword": "cornet"},
+            {"keyword": "maraca"},
+            {"keyword": "marimba"},
+            {"keyword": "microphone"},
+            {"keyword": "loudspeaker"},
+            {"keyword": "oboe"},
+            {"keyword": "ocarina"},
+            {"keyword": "organ"},
+            {"keyword": "pick"}
+        ],
+
+        "Mediums": [
+            {"keyword": "cassette"},
+            {"keyword": "cassette_player"},
+            {"keyword": "CD_player"},
+            {"keyword": "iPod"},
+            {"keyword": "radio"},
+            {"keyword": "tape_player"}  
+        ]
+    },
+    "Gaming": {
+        "Toys": [
+            {"keyword": "pinwheel"},
+            {"keyword": "swing"},
+            {"keyword": "teddy_bear"},
+            {"keyword": "tricycle"},
+            {"keyword": "tobacco_shop"},
+            {"keyword": "comic_book"},
+            {"keyword": "bubble"},
+            {"keyword": "toyshop"}
+        ],
+
+        "Puzzles": [
+            {"keyword": "crossword_puzzle"},
+            {"keyword": "jigsaw_puzzle"}
+        ],
+
+        "Gaming": [
+            {"keyword": "joystick"}
+        ]
+    },
+    "Home": {
+        "Household Items": [
+            {"keyword": "analog_clock"},
+            {"keyword": "television"},
+            {"keyword": "space_heater"},
+            {"keyword": "safe"},
+            {"keyword": "ashcan"},
+            {"keyword": "microwave"},
+            {"keyword": "barrel"},
+            {"keyword": "broom"},
+            {"keyword": "bucket"},
+            {"keyword": "candle"},
+            {"keyword": "china_cabinet"},
+            {"keyword": "chiffonier"},
+            {"keyword": "combination_lock"},
+            {"keyword": "digital_clock"},
+            {"keyword": "doormat"},
+            {"keyword": "electric_fan"},
+            {"keyword": "fire_screen"},
+            {"keyword": "folding_chair"},
+            {"keyword": "hamper"},
+            {"keyword": "handkerchief"},
+            {"keyword": "grille"},
+            {"keyword": "hourglass"},
+            {"keyword": "iron"},
+            {"keyword": "lampshade"},
+            {"keyword": "mailbox"},
+            {"keyword": "medicine_chest"},
+            {"keyword": "padlock"},
+            {"keyword": "packet"},
+            {"keyword": "projector"},
+            {"keyword": "radiator"},
+            {"keyword": "rocking_chair"},
+            {"keyword": "rain_barrel"},
+            {"keyword": "sliding_door"},
+            {"keyword": "studio_couch"},
+            {"keyword": "switch"},
+            {"keyword": "table_lamp"},
+            {"keyword": "thatch"},
+            {"keyword": "tile_roof"},
+            {"keyword": "vacuum_cleaner"},
+            {"keyword": "washing_machine"},
+            {"keyword": "vase"},
+            {"keyword": "wall_clock"},  
+            {"keyword": "window_screen"},
+            {"keyword": "window_shade"}
+        ],
+
+        "Pest Control": [
+            {"keyword": "mousetrap"}
+        ],
+
+        "Home References": [
+            {"keyword": "mailbag"}
+        ],
+
+        "Projects": [
+            {"keyword": "home_theater"},
+            {"keyword": "loudspeaker"},
+            {"keyword": "picket_fence"},
+            {"keyword": "stone_wall"}
+        ],
+
+        "Household Staionery": [
+            {"keyword": "envelope"}, 
+            {"keyword": "file"},
+            {"keyword": "letter_opener"},
+            {"keyword": "lighter"}
+        ],
+
+        "Kitchen": [
+            {"keyword": "dining_table"},
+            {"keyword": "hot_pot"},
+            {"keyword": "spatula"},
+            {"keyword": "waffle_iron"},
+            {"keyword": "water_jug"},
+            {"keyword": "stove"},
+            {"keyword": "mortar"},
+            {"keyword": "dishrag"},
+            {"keyword": "strainer"},
+            {"keyword": "dishwasher"},
+            {"keyword": "Dutch_oven"},
+            {"keyword": "frying_pan"},
+            {"keyword": "measuring_cup"},
+            {"keyword": "mixing_bowl"},
+            {"keyword": "ladle"},
+            {"keyword": "plate_rack"},
+            {"keyword": "refrigerator"},
+            {"keyword": "rotisserie"},
+            {"keyword": "saltshaker"},
+            {"keyword": "soup_bowl"},
+            {"keyword": "teapot"},
+            {"keyword": "toaster"},
+            {"keyword": "tray"},
+            {"keyword": "wok"},
+            {"keyword": "wooden_spoon"},
+            {"keyword": "plate"}
+        ],
+
+        "Grocery": [
+            {"keyword": "carton"},
+            {"keyword": "grocery_store"},
+            {"keyword": "plastic_bag"},
+            {"keyword": "shopping_basket"},
+            {"keyword": "shopping_cart"}
+        ],
+
+        "Bedroom": [
+            {"keyword": "chiffonier"},
+            {"keyword": "four-poster"},
+            {"keyword": "pillow"},
+            {"keyword": "quilt"},
+            {"keyword": "wardrobe"}    
+        ],
+
+        "Bath": [
+            {"keyword": "bath_towel"},
+            {"keyword": "toilet_seat"},
+            {"keyword": "bathtub"},
+            {"keyword": "paper_towel"},
+            {"keyword": "plunger"},
+            {"keyword": "soap_dispenser"},
+            {"keyword": "shower_curtain"},
+            {"keyword": "shower_cap"},
+            {"keyword": "tub"},
+            {"keyword": "washbasin"},
+            {"keyword": "toilet_tissue"}
+        ],
+
+        "Garden": [
+            {"keyword": "barrow"},
+            {"keyword": "hand_blower"},
+            {"keyword": "lawn_mower"},
+            {"keyword": "pot"},
+            {"keyword": "plow"},
+            {"keyword": "worm_fence"}
+        ],
+
+        "Tools": [
+            {"keyword": "carpenter's_kit"},
+            {"keyword": "pole"},
+            {"keyword": "power_drill"},
+            {"keyword": "screw"},
+            {"keyword": "screwdriver"},
+            {"keyword": "shovel"}
+
+        ],
+
+        "Party": [
+            {"keyword": "balloon"},
+            {"keyword": "candle"}
+        ],
+
+        "Homes": [
+            {"keyword": "cliff_dwelling"},
+            {"keyword": "mobile_home"}
+        ]
+    },
+    "Spirituality & Philosophy": {
+        "Mediums": [
+            {"keyword": "bell_cote"},
+            {"keyword": "altar"},
+            {"keyword": "church"},
+            {"keyword": "dome"},
+            {"keyword": "monastery"},
+            {"keyword": "mosque"},
+            {"keyword": "prayer_rug"},
+            {"keyword": "stupa"}
+        ]
+    },
+    "Education": {
+        "Tools": [
+            {"keyword": "abacus"},
+            {"keyword": "sundial"},
+            {"keyword": "slide_rule"},
+            {"keyword": "rubber_eraser"},
+            {"keyword": "printer"},
+            {"keyword": "ballpoint"},
+            {"keyword": "backpack"},
+            {"keyword": "binder"},
+            {"keyword": "academic_gown"},
+            {"keyword": "mortarboard"},
+            {"keyword": "desk"},
+            {"keyword": "fountain_pen"},
+            {"keyword": "lab_coat"},
+            {"keyword": "magnetic_compass"},
+            {"keyword": "notebook"},
+            {"keyword": "pencil_box"},
+            {"keyword": "pencil_sharpener"},
+            {"keyword": "rule"},
+            {"keyword": "stopwatch"}
+        ],
+
+        "Geography": [
+            {"keyword": "cliff"},
+            {"keyword": "coral_reef"},
+            {"keyword": "geyser"},
+            {"keyword": "lakeside"},
+            {"keyword": "promontory"},
+            {"keyword": "sandbar"},
+            {"keyword": "seashore"},
+            {"keyword": "valley"},
+            {"keyword": "volcano"}
+        ],
+
+        "Science": [
+            {"keyword": "barometer"},
+            {"keyword": "beaker"},
+            {"keyword": "dam"},
+            {"keyword": "gasmask"},
+            {"keyword": "loupe"},
+            {"keyword": "oscilloscope"},
+            {"keyword": "Petri_dish"},
+            {"keyword": "radio_telescope"},
+            {"keyword": "solar_dish"}
+        ],
+
+        "Structures": [
+            {"keyword": "bell_cote"},
+            {"keyword": "dam"},
+            {"keyword": "steel_arch_bridge"},
+            {"keyword": "suspension_bridge"},
+            {"keyword": "triumphal_arch"},
+            {"keyword": "viaduct"},
+            {"keyword": "water_tower"}
+        ]
+    },
+    "Books & Literature": {
+        "Structures": [
+            {"keyword": "bookcase"},
+            {"keyword": "bookshop"},
+            {"keyword": "library"}
+        ],
+
+        "Materials": [
+            {"keyword": "book_jacket"}
+
+        ]
+    },
+    "Vehicles": {
+        "Air": [
+            {"keyword": "aircraft_carrier"},
+            {"keyword": "airliner"},
+            {"keyword": "airship"},
+            {"keyword": "plane"},
+            {"keyword": "space_shuttle"},
+            {"keyword": "warplane"},
+            {"keyword": "wing"},
+            {"keyword": "yawl"}
+         
+        ],
+
+        "Water": [
+            {"keyword": "container_ship"},
+            {"keyword": "aircraft_carrier"},
+            {"keyword": "catamaran"},
+            {"keyword": "fireboat"},
+            {"keyword": "amphibian"},
+            {"keyword": "liner"},
+            {"keyword": "lifeboat"},
+            {"keyword": "canoe"},
+            {"keyword": "paddle"},
+            {"keyword": "paddlewheel"},
+            {"keyword": "schooner"},
+            {"keyword": "speedboat"},
+            {"keyword": "submarine"},
+            {"keyword": "trimaran"}
+        ],
+
+        "Emergency": [
+            {"keyword": "ambulance"},
+            {"keyword": "fire_engine"},
+            {"keyword": "police_van"}         
+        ],
+
+        "Constants": [
+            {"keyword": "street_sign"},
+            {"keyword": "traffic_light"},
+            {"keyword": "gas_pump"},
+            {"keyword": "odometer"},
+            {"keyword": "oil_filter"},
+            {"keyword": "parking_meter"},
+            {"keyword": "seat_belt"},
+            {"keyword": "wreck"}
+            
+        ],
+
+        "Cars": [
+            {"keyword": "car_mirror"},
+            {"keyword": "car_wheel"},
+            {"keyword": "convertible"},
+            {"keyword": "disk_brake"},
+            {"keyword": "jeep"},
+            {"keyword": "minivan"},
+            {"keyword": "Model_T"},
+            {"keyword": "passenger_car"},
+            {"keyword": "racer"},
+            {"keyword": "sports_car"},
+            {"keyword": "seat_belt"}
+        ],
+
+        "Car-Like Vehicles": [
+            {"keyword": "jinrikisha"},
+            {"keyword": "go-kart"},
+            {"keyword": "golfcart"},
+            {"keyword": "limousine"}
+        ],
+
+        "Bigger Vehicles": [
+            {"keyword": "limousine"},
+            {"keyword": "minibus"},
+            {"keyword": "moving_van"},
+            {"keyword": "pickup"},
+            {"keyword": "recreational_vehicle"},
+            {"keyword": "school_bus"},
+            {"keyword": "tow_truck"},
+            {"keyword": "trailer_truck"},
+            {"keyword": "tractor"},
+            {"keyword": "trolleybus"}
+        ],
+
+        "Winter Vehicles": [
+            {"keyword": "snowmobile"},
+            {"keyword": "snowplow"}
+        ],
+
+        "Cycles": [
+            {"keyword": "bicycle-built-for-two"},
+            {"keyword": "moped"},
+            {"keyword": "motor_scooter"},
+            {"keyword": "mountain_bike"},
+            {"keyword": "unicycle"}
+        ],
+
+        "Motorcycles": [
+            {"keyword": "crash_helmet"}
+        ],
+
+        "Locomotives": [
+            {"keyword": "bullet_train"},
+            {"keyword": "electric_locomotive"},
+            {"keyword": "freight_car"},
+            {"keyword": "steam_locomotive"},
+            {"keyword": "streetcar"}
+        ],
+
+        "Other Vehicles": [
+            {"keyword": "garbage_truck"},
+            {"keyword": "half_track"}
+        ]
+    },
+    "DIY": {
+        "Structures": [
+            {"keyword": "apiary"},
+            {"keyword": "bannister"},
+            {"keyword": "barn"},
+            {"keyword": "birdhouse"},
+            {"keyword": "chainlink_fence"},
+            {"keyword": "chiffonier"},
+            {"keyword": "crate"},
+            {"keyword": "crib"},
+            {"keyword": "desk"}
+        ],
+
+        "Materials": [
+            {"keyword": "brass"}
+        ],
+
+        "Tools": [
+            {"keyword": "carpenter's_kit"},
+            {"keyword": "coil"},
+            {"keyword": "corkscrew"},
+            {"keyword": "hammer"},
+            {"keyword": "hatchet"},
+            {"keyword": "knot"},
+            {"keyword": "nail"},
+            {"keyword": "pole"},
+            {"keyword": "power_drill"},
+            {"keyword": "screw"},
+            {"keyword": "screwdriver"},
+            {"keyword": "shovel"}
+            
+        ]
+    },
+    "Tactical Gear": {
+        "Gear": [
+            {"keyword": "bulletproof_vest"},
+            {"keyword": "assault_rifle"},
+            {"keyword": "revolver"},
+            {"keyword": "rifle"},
+            {"keyword": "holster"},
+            {"keyword": "military_uniform"},
+            {"keyword": "projectile"},
+            {"keyword": "spotlight"},
+            {"keyword": "tank"}
+
+        ],
+
+        "Military": [
+            {"keyword": "military_uniform"},
+            {"keyword": "missile"}
+        ]
+    },
+    "Personal Development": {
+        "Self-Care": [
+            {"keyword": "barber_chair"},
+            {"keyword": "barbershop"},
+            {"keyword": "hair_spray"},
+            {"keyword": "lotion"},
+            {"keyword": "perfume"},
+            {"keyword": "sunscreen"}
+        ],
+
+        "Women's Self-Care": [
+            {"keyword": "face_powder"},
+            {"keyword": "lipstick"}
+        ],
+
+        "Small Business": [
+            {"keyword": "cash_machine"}
+        ],
+
+        "Stimulants": [
+            {"keyword": "park_bench"}
+        ],
+
+        "Milestone": [
+            {"keyword": "groom"}
+        ]
+    },
+    "Parenting": {
+        "Items": [
+            {"keyword": "bassinet"},
+            {"keyword": "bib"},
+            {"keyword": "cradle"},
+            {"keyword": "crib"},
+            {"keyword": "diaper"}
+        ]
+    },
+    "History": {
+        "Midieval": [
+            {"keyword": "castle"},
+            {"keyword": "breastplate"},
+            {"keyword": "chain_mail"},
+            {"keyword": "cuirass"},
+            {"keyword": "guillotine"},
+            {"keyword": "horse_cart"},
+            {"keyword": "oxcart"},
+            {"keyword": "pickelhaube"},
+            {"keyword": "shield"},
+            {"keyword": "throne"}
+        ],
+
+        "Pirates": [
+            {"keyword": "chest"},
+            {"keyword": "cannon"},
+            {"keyword": "pirate"},
+            {"keyword": "scabbard"}
+        ],
+
+        "Ancient": [
+            {"keyword": "megalith"},
+            {"keyword": "obelisk"},
+            {"keyword": "torch"}
+        ],
+
+        "1900s": [
+            {"keyword": "dial_telephone"}
+        ]
+    },
+    "Movies & TV Shows": {
+        "Pirates": [
+            {"keyword": "chest"},
+            {"keyword": "cannon"},
+            {"keyword": "hook"}
+        ],
+
+        "Family": [
+            {"keyword": "carousel"},
+            {"keyword": "church"}
+        ],
+
+        "Historical": [
+            {"keyword": "castle"},
+            {"keyword": "breastplate"},
+            {"keyword": "chain_mail"},
+            {"keyword": "cloak"},
+            {"keyword": "cuirass"}
+        ],
+
+        "Older Setting": [
+            {"keyword": "dial_telephone"}
+        ],
+
+        "Action": [
+            {"keyword": "cash_machine"}
+        ],
+
+        "Mediums": [
+            {"keyword": "cinema"},
+            {"keyword": "reel"},
+            {"keyword": "television"},
+            {"keyword": "theater_curtain"}
+        ],
+
+        "Western": [
+            {"keyword": "cowboy_boot"},
+            {"keyword": "cowboy_hat"}
+        ]
+    },
+    "Holidays": {
+        "Christmas": [
+            {"keyword": "Christmas_stocking"}
+        ],
+
+        "Halloween": [
+            {"keyword": "jack-o'-lantern"}
+        ]
+    },
+    "Construction": {
+        "Tools": [
+            {"keyword": "forklift"},
+            {"keyword": "crane"},
+            {"keyword": "manhole_cover"}
+        ],
+
+        "Jobs": [
+            {"keyword": "lumbermill"}
+        ]
+    },
+    "Farming": {
+        "Tools": [
+            {"keyword": "harvester"},
+            {"keyword": "plow"},
+            {"keyword": "tractor"},
+            {"keyword": "thresher"}
+        ]
+    },
+    "Legal": {
+        "Structures": [
+            {"keyword": "prison"}
+        ]
+    },
+    "Lifestyle": {
+        "Smoking": [
+            {"keyword": "tobacco_shop"}
+        ]
+    },
+    "Specialized Tools": {
+        "Access": [
+            {"keyword": "turnstile"}
+        ],
+
+        "Money": [
+            {"keyword": "vault"},
+            {"keyword": "safe"}
+        ]
+    }
+
+}
