@@ -63,7 +63,7 @@ def frame_by_frame(file_path):
         frame_count += 1
 
     # Process remaining frames
-    if frames:
+    if frames:    
         predictions = model.predict(np.vstack(frames))
         decode_and_update_dict(predictions, return_dict)
 
@@ -87,19 +87,20 @@ def decode_and_update_dict(predictions, return_dict):
                 if label not in return_dict:
                     return_dict[label] = []
                     return_dict[label].append(1)
-
-                    sub_category, super_category = keyword_predicter(label, keyword_model)
-                    return_dict[label].append(sub_category)
-                    return_dict[label].append(super_category)
-
-                    # Appending the score
-                    return_dict[label].append(score * 100)
+                    # catching an exception when processing fails due to out of range keyword
+                    try:
+                        sub_category, super_category = keyword_predicter(label, keyword_model)
+                        return_dict[label].extend([sub_category, super_category, score * 100])
+                    except Exception as e:
+                        print(f"Error in keyword_predicter for label {label}: {e}")
+                        # Optionally, continue with some default values or skip this label
+                        continue
                 else:
                     return_dict[label][0] += 1
 
                     # Adding the score
                     return_dict[label][3] += (score * 100)
-    
+    # what im thinking of doing is first creating a sepearte analyser file that will be like a tool using tesseract and than we will intake a image 
     for label in return_dict:
         # Averaging the score
         avg = return_dict[label][3] / return_dict[label][0]

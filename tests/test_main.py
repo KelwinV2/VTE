@@ -1,6 +1,16 @@
 # tests/test_main.py
 import unittest
 from fastapi.testclient import TestClient
+
+import sys
+import os
+
+# Get the absolute path of the parent directory
+parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+
+# Add the parent directory to the system path
+sys.path.insert(0, parent_dir)
+
 from main import app
 
 class TestMain(unittest.TestCase):
@@ -34,8 +44,8 @@ class TestMain(unittest.TestCase):
             self.assertEqual("Pets & Animals", response["hammerhead"][2])
             
     def test_upload_file_format_video(self):
-        with open("./tests/assets/car.mp4", "rb") as video_file:
-            files = {'file': ('car.mp4', video_file, 'video/mp4')}
+        with open("./tests/assets/car2.mp4", "rb") as video_file:
+            files = {'file': ('car2.mp4', video_file, 'video/mp4')}
             raw_response = self.client.post("/upload", files=files)  
 
             self.assertEqual(raw_response.status_code, 200)      
